@@ -67,8 +67,3 @@ Variables were defined to structure data capture:
 ### Step 6: Deployment & Migration
 1.  Set the Update Set to **Complete** and **Exported to XML**.
 2.  Imported, Previewed, and **Committed** the Update Set in the target instance for final deployment.
-
----
-* 
-* 
-*
