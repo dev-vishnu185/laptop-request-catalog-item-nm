@@ -1,5 +1,22 @@
 # 💻 Laptop Request Catalog Item
 
+Here You will find all the document files related to the "Laptop Request Catalog Item" Project.
+
+## Team Details
+Team ID : NM2025TMID08851
+
+Team Size : 5
+
+Team Leader : Vishnukumar S
+
+Team member : Prabhaharan D
+
+Team member : Prem Kumar M V
+
+Team member : Pavankanth V
+
+Team member : Mohammed Arsath K
+
 ## Project Overview
 
 This project implements a **dynamic Service Catalog Item** within the ServiceNow platform to modernize and automate the organizational process for requesting work laptops. It replaces a slow, manual, and error-prone workflow with a fast, user-guided digital experience, ensuring accurate data collection and robust deployment governance.
@@ -17,17 +34,6 @@ The objective was to create a Catalog Item that provides:
 2.  **User Guidance:** Dynamic fields and clear instructions.
 3.  **Usability:** A form reset option for better user experience (UX).
 4.  **Governance:** All configurations tracked for safe deployment.
-
----
-
-## ✨ Key Features Implemented
-
-| Feature | ServiceNow Component | Benefit to the User/Process |
-| :--- | :--- | :--- |
-| **Dynamic Form Fields** | **Catalog UI Policy** | Shows the **'Accessories Details'** field only when the **'Additional Accessories'** checkbox is selected, ensuring required details are captured when relevant. |
-| **Form Reset Functionality** | **UI Action** on `sc_cart` table | Allows the user to quickly clear the form and start over, significantly improving UX. |
-| **Version Control & Migration** | **Local Update Set** | All changes are bundled into the **'Laptop Request'** update set, guaranteeing safe and traceable deployment to other instances. |
-| **Structured Request** | **Catalog Item & Variables** | Replaces unstructured emails/forms with a clear, mandatory set of data points (e.g., Laptop Model, Justification). |
 
 ---
 
