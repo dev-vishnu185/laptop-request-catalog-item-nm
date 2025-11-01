@@ -1,5 +1,4 @@
-# 📄 Project Documentation & Reports
-
+# 📄 Ideation Phase Documentations
 This folder contains all formal reports and project artifacts generated during the ideation, implementation, and deployment phases of the **Laptop Request Catalog Item** ServiceNow project.
 
 These files provide the complete narrative, rationale, and evidence necessary to understand the solution from both a user-centric and technical perspective.
