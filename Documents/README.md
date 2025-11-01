@@ -1,24 +1,25 @@
-# 📌 Requirement Analysis & System Definition
+# 📄 Project Documentation: Laptop Request Catalog Item
 
-This folder contains the foundational documentation for the **Laptop Request Catalog Item** project. It outlines the system requirements, data flow, user stories, and technology stack used to build and deploy the solution in ServiceNow.
+This folder contains all formal documentation and artifacts for the **Laptop Request Catalog Item** project, developed and deployed on the ServiceNow platform. The project is structured into five distinct phases, each capturing a critical aspect of the solution lifecycle — from ideation to validation.
 
 ---
 
-## Folder Contents
+## 📦 Folder Overview
 
-| File Name | Description | Focus Area |
+| Phase | Contents | Focus |
 | :--- | :--- | :--- |
-| **Data Flow Diagrams and User Stories.pdf** | Visualizes system interactions and defines user needs through structured stories. | **Functional Flow & User Needs** |
-| **Solution Requirements.pdf** | Details both functional and non-functional requirements for the catalog item. | **System Capabilities** |
-| **Technology Stack.pdf** | Lists all components, technologies, and architectural diagram and characteristics used. | **Platform & Architecture** |
+| **Ideation Phase** | Brainstorming, Problem Definition, Empathy Mapping | Understanding user needs and defining the challenge |
+| **Requirement Analysis** | Data Flow Diagrams, User Stories, Technology Stack | System requirements, architecture, and user flows |
+| **Project Design Phase** | Solution Fit, Architecture Blueprint | Technical design and modular structure |
+| **Project Planning Phase** | Sprint Breakdown, Velocity, Burndown Chart | Agile planning and execution metrics |
+| **Performance Testing** | Test Results, Accuracy, Confidence Scores | Validation of core functionalities and reliability |
 
 ---
 
-## Key Requirement Highlights
+## 🔍 Project Summary
 
-* Focused on building a dynamic, user-friendly catalog item  
-* Ensured system integrity through validation and governance  
-* Leveraged native ServiceNow components for scalability and performance  
-* Defined clear user roles and interactions for accurate data flow
+- **Problem Solved:** Manual, slow laptop request process lacking dynamic behavior
+- **Solution:** A ServiceNow Catalog Item with UI Policies, Client UI Action, and governance via Update Set
+- **Outcome:** A scalable, user-friendly, and production-ready solution with high accuracy and confidence
 
-This phase ensures the solution is well-defined, technically feasible, and aligned with user expectations.
+Each phase folder includes a `README.md` file that summarizes its contents and purpose. For technical implementation and code references, please refer to the main repository or deployment notes.
