@@ -79,14 +79,8 @@ The following outlines the configuration sequence within the ServiceNow instance
 
 ---
 
-## 🔐 Instance Access & Policy Note
+## 🔗 Quick Access Links
 
-Due to security and platform compliance, the **NM instance link is not publicly shared** in this repository.
+* ServiceNow: [Project Environment](https://dev230863.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D4c35e02dc334321027ce5ffdd40131b3)
 
-ServiceNow’s Developer Program Terms of Use specify that:
-> “Developer instances are intended for personal use and learning. Sharing access or exposing instance links publicly may result in suspension or termination of access.”
-
-To ensure responsible usage and protect proprietary configurations, this project follows best practices by keeping instance access private.
-
-To view the working demo, please visit the **SmartInternz project workspace** and click on the **DEMO LINK** section.  
-The ServiceNow instance link is attached there as a document and has been verified for evaluator access.
+* Demo Video: [Laptop Request Catalog Item – Demo Video](https://drive.google.com/file/d/1cGcKWIhckuG_aJIAHRk91H-LVb4PnUsY/view?usp=drivesdk)
