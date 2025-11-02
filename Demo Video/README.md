@@ -18,4 +18,4 @@ This demo was created to support project evaluation and provide a visual overvie
 
 ## 🔗 Demo Video Link
 
-Watch the demo here: [Laptop Request Catalog Item – Demo Video](https://drive.google.com/file/d/1_Y9kk8twlA6kVkHcuD4PA7C2BZu7ZdCE/view?usp=drivesdk)
+Watch the demo here: [Laptop Request Catalog Item – Demo Video](https://drive.google.com/file/d/1cGcKWIhckuG_aJIAHRk91H-LVb4PnUsY/view?usp=drivesdk)
