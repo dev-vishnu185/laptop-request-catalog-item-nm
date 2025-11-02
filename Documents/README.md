@@ -9,11 +9,10 @@ This folder contains all formal documentation and artifacts for the **Laptop Req
 | Phase | Contents | Focus |
 | :--- | :--- | :--- |
 | **Ideation Phase** | Brainstorming, Problem Definition, Empathy Mapping | Understanding user needs and defining the challenge |
-| **Requirement Analysis** | Data Flow Diagrams, User Stories, Technology Stack | System requirements, architecture, and user flows |
+| **Performance Testing** | Test Results, Accuracy, Confidence Scores | Validation of core functionalities and reliability |
 | **Project Design Phase** | Solution Fit, Architecture Blueprint | Technical design and modular structure |
 | **Project Planning Phase** | Sprint Breakdown, Velocity, Burndown Chart | Agile planning and execution metrics |
-| **Performance Testing** | Test Results, Accuracy, Confidence Scores | Validation of core functionalities and reliability |
-
+| **Requirement Analysis** | Data Flow Diagrams, User Stories, Technology Stack | System requirements, architecture, and user flows |
 ---
 
 ## 🔍 Project Summary
